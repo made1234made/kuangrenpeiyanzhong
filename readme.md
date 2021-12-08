@@ -6,15 +6,15 @@
 
 ## 2.知乎原帖情况
 
-![image-20211208202727939](https://github.com/made1234made/kuangrenpeiyanzhong/tree/master/readme.assets/image-20211208202727939.png)
+![image-20211208202727939](readme.assets/image-20211208202727939.png)
 
-![image-20211208202803435](https://github.com/made1234made/kuangrenpeiyanzhong/tree/master/readme.assets/image-20211208202803435.png)
+![image-20211208202803435](readme.assets/image-20211208202803435.png)
 
-![image-20211208202901742](https://github.com/made1234made/kuangrenpeiyanzhong/tree/master/readme.assets/image-20211208202901742.png)
+![image-20211208202901742](readme.assets/image-20211208202901742.png)
 
-![image-20211208202959744](https://github.com/made1234made/kuangrenpeiyanzhong/tree/master/readme.assets/image-20211208202959744.png)
+![image-20211208202959744](readme.assets/image-20211208202959744.png)
 
-![image-20211208203028550](https://github.com/made1234made/kuangrenpeiyanzhong/tree/master/readme.assets/image-20211208203028550.png)
+![image-20211208203028550](readme.assets/image-20211208203028550.png)
 
 ## 3.一些线索陈列
 
